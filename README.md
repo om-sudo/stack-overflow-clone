@@ -1,3 +1,12 @@
+Login Window:![image](https://github.com/om-sudo/stack-overflow-clone/assets/65015460/0408e2a8-4c0d-427b-b660-edb4f9695685)
+
+Home Page : ![image](https://github.com/om-sudo/stack-overflow-clone/assets/65015460/455b2072-9f34-4fac-aa0c-1207048eabe9)
+
+Add Question : ![image](https://github.com/om-sudo/stack-overflow-clone/assets/65015460/15d9db29-58fb-4011-bfe5-9cde2732d9c8)
+
+view Question : ![image](https://github.com/om-sudo/stack-overflow-clone/assets/65015460/68ba9fa7-d64e-4316-82e7-10f976e40880)
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
